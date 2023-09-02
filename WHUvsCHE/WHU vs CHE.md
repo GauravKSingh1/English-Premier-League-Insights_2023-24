@@ -4,7 +4,7 @@ Date: August 20, 2023
 
 Venue: London Stadium stadium, London city, England
 
-Result: Chelsea 1-3 Liverpool 
+Result: Chelsea 1-3 West Ham United 
 
 The data has been scraped from https://www.sofascore.com/ 
 
