@@ -4,7 +4,8 @@ Date: August 13, 2023
 
 Venue: Stamford Bridge stadium, London city, England
 
-Result: Chelsea 1-1 Liverpool 
+Result: Chelsea 1-1 Liverpool
+![Premier-League-symbol-958x575](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liverpoolfc.com%2Fnews%2Ffirst-team%2F386021-chelsea-v-liverpool-fa-cup-fixture-details-confirmed&psig=AOvVaw20hceZnohJXkhiLXm4zUdk&ust=1693739064994000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjrjIDki4EDFQAAAAAdAAAAABAD)
 
 The data has been scraped from https://www.sofascore.com/ 
 
