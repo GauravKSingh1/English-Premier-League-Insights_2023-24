@@ -30,10 +30,10 @@ Another HTTP GET request is sent to the same shot map API with the updated heade
 
 Processing and Visualizing Data:
 The code imports additional libraries like pandas, matplotlib, mplsoccer, and openpyxl.
-It reads data from an Excel file ('Book.xlsx') into a pandas DataFrame.
+It reads data from an Excel file ('WHUvsCHE.xlsx') into a pandas DataFrame.
 It creates a soccer pitch visualization using mplsoccer.
 It plots goals, shots by West Ham United, and shots by Chelsea on the pitch.
 The code also generates text annotations on the plot, including the total number of shots and the number of goals.
-It reads data from another Excel file ('Book 1.xlsx') and calculates cumulative xG (expected goals) for both teams over time.
+It reads data from another Excel file ('xG WHUvsCHE.xlsx') and calculates cumulative xG (expected goals) for both teams over time.
 Finally, it plots the cumulative xG over the course of the match.
 Overall, this code appears to scrape and visualize soccer match data, including shot maps and xG, using various Python libraries and data sources. The resulting output is visual representations of the match's key events and statistics.
