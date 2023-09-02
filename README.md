@@ -1,8 +1,8 @@
 # English-Premier-League-Insights_2023-24
 ## Premier League Match Analysis
 
-![Premier League Logo](![image](https://github.com/GauravKSingh1/English-Premier-League-Insights_2023-24/assets/105987725/2b8f26c8-8316-4aa8-a92a-58d575b0cea9)
-)
+![Premier-League-symbol-958x575](https://github.com/GauravKSingh1/English-Premier-League-Insights_2023-24/assets/105987725/9fe2a547-8d3f-4314-bf5c-d318d1a5ec84)
+
 
 This repository provides detailed shot maps, pass maps, and expected goals (xG) data for Premier League matches. Whether you're a football enthusiast, analyst, or data scientist, this repository contains valuable insights into match performances.
 
