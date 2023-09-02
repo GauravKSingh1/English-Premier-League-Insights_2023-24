@@ -5,6 +5,8 @@ Date: August 20, 2023
 Venue: London Stadium stadium, London city, England
 
 Result: Chelsea 1-3 West Ham United 
+![image](https://github.com/GauravKSingh1/English-Premier-League-Insights_2023-24/assets/105987725/bb6c4a34-b4f3-4607-9f46-0cb80cb20485)
+
 
 The data has been scraped from https://www.sofascore.com/ 
 
